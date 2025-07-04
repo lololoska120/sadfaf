@@ -1654,7 +1654,7 @@ display: flex;
   animation: driveInRight 1s ease-in-out forwards;
 }
 .preview {
-  height: 720px;
+  height: 790px;
     position: relative;
     width: 100%;
     overflow: hidden;
